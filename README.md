@@ -3,7 +3,7 @@ I'm Rihards
 ![](https://github.githubassets.com/images/mona-whisper.gif)
 - Okay, I am not a cat actually 😄
 - 💻 I enjoy programming as a hobby in my free time, but I also like to learn new human languages too 🤓
-- 🔭 currently working on a browser extension that is ( I hope so ) useful for Norwegian 🇳🇴 language learners or at least myself 😄
+- 🔭 currently working on a browser extension that is ( I hope so ) useful for Norwegian <img alt="Norwegian flag icon" src="https://raw.githubusercontent.com/wolf3d/wolf3d/master/assets/norway.svg" height="12" /> language learners or at least myself 😄
 - 🌱 currently learning how to implement various data structures e.g. stack, queue, hashmap, etc.
 ### Get in touch
 <a href="https://www.linkedin.com/in/kubilisr/" title="Get in touch with me on LinkedIn">
