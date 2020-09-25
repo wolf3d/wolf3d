@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm Rihards
-![](https://github.githubassets.com/images/mona-whisper.gif)
-- Okay, I am not a cat actually 😄
+I'm Rihards <img src="https://github.githubassets.com/images/mona-whisper.gif" alt="" data-canonical-src="https://github.githubassets.com/images/mona-whisper.gif" style="max-width:100%;" width="64"> Okay, I am not a cat actually 😄
 - 💻 I enjoy programming as a hobby in my free time, but I also like to learn new human languages too 🤓
 - 🔭 currently working on a browser extension that is ( I hope so ) useful for Norwegian <img alt="Norwegian flag icon" src="https://raw.githubusercontent.com/wolf3d/wolf3d/master/assets/norway.svg" height="12" /> language learners or at least myself 😄
 - 🌱 currently learning how to implement various data structures e.g. stack, queue, hashmap, etc.
